@@ -1,6 +1,10 @@
 #Billy Parrish
 #SDEV 220
 #M03 Case_study
+#The program will ask the user for the year, make, model, doors, and the type of roof (solid or sunroof) for the type of vehicle they want. 
+#It will then print the information back to the user in a use friendly format. There is a Super class called Vehicle and a sub class called Automobile.
+#Inside the sub class there are 5 attributes that store the information that the user provides. Those attributes are year, make, model, doors, and roof.
+
 
 
 class Vehicle:
